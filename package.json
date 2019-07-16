@@ -1,6 +1,6 @@
 {
   "name": "clicky-react",
- // "homepage": "https://bcimbali.github.io/clicky-game/",
+  "homepage": "https://pekwalla.github.io/click-game/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
