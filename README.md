@@ -1,5 +1,5 @@
-Celebrities Clicky Game
-Do you think you know the characters from Twin Peaks well? If so, put your knowledge and memory to the test with this clicky game.
+Celebrities match
+Do you think you know the characters from Celebrities list? If so, put your knowledge and memory to the test with this clicky game.
 
 What is this?
 This is a simple memorization and click game. The object of the game is to click on only one character once. If you repeat guesses, you lose and the score is reset to 0. You win by reaching the max score total of 12.
