@@ -14,7 +14,7 @@ Keep going to see if you can get all 12.
 How to install and Run:
 git clone the repo
 Run npm install to get all dependencies
-cd into clicky-react
+cd into click-react
 Run npm start
 Go to localhost:3000 in your web browser
 Built with:
